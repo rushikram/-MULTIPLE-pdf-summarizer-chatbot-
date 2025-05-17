@@ -1,4 +1,4 @@
-# Chat with PDF using Gemini 💬📚
+# Multiple PDF Summarizer Chatbot Using Gemini💬📚
 
 This project is a **Streamlit-based web application** that allows users to **interact with PDF files** using natural language queries. It leverages **Google's Gemini model** for intelligent Q&A on uploaded PDF content.
 
